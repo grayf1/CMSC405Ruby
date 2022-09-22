@@ -47,10 +47,20 @@ puts p.call 4
 # 8. Write the code to execute the code block contained in p for an odd integer
 # and output the code block's return.
 puts p.call 5
-# 9. Who created the Ruby programming language?
-# 10. Explain how you interact with the Ruby programming language?
-# 11. What is Ruby's programming model?
-# 12. What is Ruby's typing model?
-# 13. Explain what it means to be weakly (or loosely) typed?
-# 14. Explain what it means to be statically typed?
-# 15. Write the full path to where Ruby's language libraries exist on your laptop.
+# 9. Who created the Ruby programming language? - Yukihiro Matsumoto
+
+# 10. Explain how you interact with the Ruby programming language? - Ruby is platform 
+# independent; as long as the platform dependent ruby is installed you can run on 
+# linux, windows, mac etc. 
+
+# 11. What is Ruby's programming model? - an open-source object-oriented scripting language
+
+# 12. What is Ruby's typing model? - dynamically typed 
+
+# 13. Explain what it means to be weakly (or loosely) typed? -  a programming language that does
+#  not require a variable to be defined
+
+# 14. Explain what it means to be statically typed? - a programming language characteristic 
+# in which variable types are explicitly declared and thus are determined at compile time 
+
+# 15. Write the full path to where Ruby's language libraries exist on your laptop. C:\Ruby31-x64\lib\
